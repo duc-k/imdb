@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "dev": "node-sass --watch bundle.sass bundle.css --output-style compressed"
+  },
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
